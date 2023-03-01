@@ -1,9 +1,9 @@
 # Data Analysis With Dirty Data
-_____________________________________________________________________________
+
 This project is aimed at analyzing and filtering a dirty data that I have obtained from a random user from Linkedin.
 
 ## Dataset
-______________________________________________________________________________
+
 The dataset used in this project is publicly available on Linkedin
 
 - **IMBD_title_ID:** The id of IMBD movie.
