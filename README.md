@@ -4,7 +4,7 @@ This project is aimed at analyzing and filtering a dirty data that I have obtain
 
 ## Dataset
 
-The dataset that is used in this project is publicly available on Linkedin
+The dataset messy_data.csv that is used in this project is publicly available on Linkedin
 
 - **IMBD_title_ID:** The id of IMBD movie.
 - **Original_title:** The name of movie title.
