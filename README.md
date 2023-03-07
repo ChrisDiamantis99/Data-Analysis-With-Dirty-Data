@@ -1,6 +1,6 @@
 # Data Analysis With Dirty Data
 
-This project is aimed at analyzing and filtering a dirty data that I have obtained from a random user from Linkedin.
+This project aimes at analyzing and filtering a dirty data that I have obtained from a random user from Linkedin.
 
 ## Dataset
 
